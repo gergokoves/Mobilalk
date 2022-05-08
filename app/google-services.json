@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "83215515278",
+    "project_id": "furdoruhashop-12151",
+    "storage_bucket": "furdoruhashop-12151.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83215515278:android:b0b8c62c0e45d73b91d3df",
+        "android_client_info": {
+          "package_name": "com.example.furdoruha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83215515278-20s0ajlkutq35ido7mn1c4cg69ek3olm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.furdoruha",
+            "certificate_hash": "dd26aa5ce40ba18b19b4d44d41fa7914b67bd0ae"
+          }
+        },
+        {
+          "client_id": "83215515278-ulo2k1j51dve46ko3calji9gie5fjt45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9aAbQuKs449XihAyQeDqH0d84aue6J1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83215515278-ulo2k1j51dve46ko3calji9gie5fjt45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

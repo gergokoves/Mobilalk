@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Fürdőroha Shop</string>
+    <string name="name">Felhasználónév</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email_address">E-mail cím</string>
+    <string name="password_again">Jelszó újra</string>
+
+
+    <string-array name="furdoruha_nevek">
+        <item>Nabanji</item>
+        <item>Speedo</item>
+        <item>Arena</item>
+        <item>Watko</item>
+        <item>Adidas</item>
+        <item>Nike</item>
+        <item>Venom</item>
+    </string-array>
+
+    <string-array name="furdoruha_arak">
+        <item>5000</item>
+        <item>7000</item>
+        <item>4000</item>
+        <item>5000</item>
+        <item>3000</item>
+        <item>3900</item>
+        <item>6000</item>
+    </string-array>
+
+    <string-array name="furdoruha_leiras">
+        <item>Női úszódressz Kamyleon All Geo, egyrészes, shorty fazon</item>
+        <item>Női úszódressz Kamyli Conf, egyrészes</item>
+        <item>Női úszódressz, Kamiye+, egyrészes, zöld</item>
+        <item>Női úszódressz, Kamiye+, egyrészes, kék</item>
+        <item>Férfi úszónadrág, 100 Basic, kék</item>
+        <item>Férfi úszónadrág 900 All Rocki, piros</item>
+        <item>Férfi úszónadrág, kék, fehér</item>
+    </string-array>
+
+
+
+
+
+</resources>
+
+
+

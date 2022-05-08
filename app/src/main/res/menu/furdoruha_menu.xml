@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuNoiRuhar"
+        android:menuCategory="container"
+        android:onClick="noiRuhak"
+        android:title="Női Fürdőuhák"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/menuFerfiRuha"
+        android:menuCategory="container"
+        android:onClick="ferfiRuha"
+        android:title="Férfi Fürdőruhák"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/menuKezdolap"
+        android:menuCategory="container"
+        android:onClick="kezdoLap"
+        android:title="Kezdőlap"
+        app:showAsAction="always" />
+
+
+</menu>
